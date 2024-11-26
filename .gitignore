@@ -2,3 +2,4 @@ data
 *.pth
 *.pkl
 .DS_Store
+*.path
